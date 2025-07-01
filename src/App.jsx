@@ -1,5 +1,3 @@
-function App() {
-  return <h1>Hello React</h1>;
+export default function App() {
+  return <div className='text-2xl'>Hello React App</div>;
 }
-
-export default App;
