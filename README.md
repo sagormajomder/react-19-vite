@@ -1,12 +1,37 @@
-# React + Vite
+# Code in React 19
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+As React 19 is new, this scaffolding project is for everyone who wants to start coding in React 19.
 
-Currently, two official plugins are available:
+It has:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Vite 7.x
+- React 19.1.x(Stable Version)
+- TailwindCSS 4.1.x
 
-## Expanding the ESLint configuration
+## Create Your Own React 19 Project with Vite and TailwindCSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+There are multiple ways you can utilize this repository to create your own project. The most straightforward way is by using the follwoing command from the command prompt/terminal:
+
+```bash
+npx degit sagormajomder/react-19-vite#main <YOUR_PROJECT_NAME>
+```
+
+This will clone the repository to your project. Alternatively, you can fork this repo or create a new repo from the template by clicking on the button at the top-right corner.
+
+## 🫶 Support
+
+Liked it? You can show your support with a STAR(⭐).
+
+> Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)
+
+<!-- ### Sponsor My Work
+
+> I am an independent educator and open-source enthusiast who creates meaningful projects to teach programming on my YouTube Channel. You can support my work by [sponsoring me on GitHub](https://github.com/sponsors/atapas). -->
+
+## Run it Locally
+
+- Clone or fork the repo
+- Install dependencies using `npm install`
+- Run it using `npm run dev`
+
+The app will be available on `http://localhost:5173` by default.
