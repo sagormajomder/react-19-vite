@@ -18,7 +18,15 @@ There are multiple ways you can utilize this repository to create your own proje
 npx degit sagormajomder/react-19-vite#main <YOUR_PROJECT_NAME>
 ```
 
-This will clone the repository to your project. Alternatively, you can fork this repo or create a new repo from the template by clicking on the button at the top-right corner.
+This will clone the repository to your project. Alternatively, you can fork this repo or create a new repo from the template by clicking on the button "use this template" at the top-right corner.
+
+After create your project in your local machine, open terminal and
+
+- type `git init` to initialize git into your project
+- type `npm i` to install all dependencies
+- type `npm run dev` to run it
+
+The app will be available on `http://localhost:5173` by default.
 
 ## 🫶 Support
 
@@ -28,12 +36,5 @@ Liked it? You can show your support with a STAR(⭐).
 
 <!-- ### Sponsor My Work
 
-> I am an independent educator and open-source enthusiast who creates meaningful projects to teach programming on my YouTube Channel. You can support my work by [sponsoring me on GitHub](https://github.com/sponsors/atapas). -->
-
-## Run it Locally
-
-- Clone or fork the repo
-- Install dependencies using `npm install`
-- Run it using `npm run dev`
-
-The app will be available on `http://localhost:5173` by default.
+> I am an independent educator and open-source enthusiast who creates meaningful projects to teach programming on my YouTube Channel. You can support my work by [sponsoring me on GitHub](https://github.com/sponsors/atapas).
+ -->
