@@ -1,12 +1,14 @@
 # Code in React 19
 
-As React 19 is new, this scaffolding project is for everyone who wants to start coding in React 19.
+This scaffolding project is for everyone who wants to start coding in React 19 with a proper industry follwoing SPA folder structure.
 
 It has:
 
-- Vite 7.x
-- React 19.1.x(Stable Version)
-- TailwindCSS 4.1.x
+- Vite 7.1.x
+- React 19.2.x(Stable Version)
+- TailwindCSS 4.1.x with daisyUI 5.3.x
+- React router 7.9.x
+- React toastify 11.x
 
 ## Create Your Own React 19 Project with Vite and TailwindCSS
 
